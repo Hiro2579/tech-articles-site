@@ -9,4 +9,4 @@ Claude Codeで作った技術記事サイト
 
 Next.js × Typescript × Tailwindcss
 
-a
+practice 3
